@@ -1,5 +1,11 @@
 # 5e.tools-Repos
 
+
+https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:tgs~tgs1~tdcsr~vss~cotddpras~teb~teb%3asv~teb%3asr~ghpg~gh~rannieryjesuinothemagus~asdfs~mfovcotras~toh~darkmatter~tob~ccodex~helianasguidetomonsterhunting~dmtuzlamia~dmtuzslimefolk~dmtuzholstaur~mdmpott~doggosidekick~kibdragonpatron~llmc~llam~llam%3ae~llabh~llc~llmt~llaro~llaroe~llps~llab~llabe~llra~llaf~llaf%3ae~ll%3adc~llaw~llaw%3ae~llfafs~ll%3abc~llpso~halfdwarf~llar~llar%3ae~laserllamaalternatesorcerer~laserllamaalternatesorcererexpanded~laserllamaalternatebard~llaart~llaart%3ae~llvessel~llsav~llsave~llasio~owp~llsh~llsh%3ae~bloodhunter~bh2020~kt%3avsco~ktfff~divine%20agent~ksb~kibblesgenericelementalspells~kt%3ao~ktw~ktwe~kibblestasty%3acc~kibblestasty%3abms~ktp~kibbleinventor~ktss~kt%3aamf~ktkcg~mercergunslinger~wotcs~bh2022~mercerootos~taldorei~grimhollowplayerpack~whereevillives~fleemortals~arcadia10~ar8~ar6~ar5~ar1~arcadia27~arcadia9~ar4~ar2~ar20~ar7~ar3~arcadia19~arcadia21
+
+
+<hr>
+
 https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:tgs~tgs1~tdcsr~vss~cotddpras~teb~teb%3asv~teb%3asr~ghpg~gh~rannieryjesuinothemagus~asdfs~mfovcotras~toh~darkmatter~tob~ccodex~helianasguidetomonsterhunting~dmtuzlamia~dmtuzslimefolk~dmtuzholstaur~mdmpott~doggosidekick~kibdragonpatron~llmc~llam~llam%3ae~llabh~llc~llmt~llaro~llaroe~llps~llab~llabe~llra~llaf~llaf%3ae~ll%3adc~llaw~llaw%3ae~llfafs~ll%3abc~llpso~halfdwarf~llar~llar%3ae~laserllamaalternatesorcerer~laserllamaalternatesorcererexpanded~laserllamaalternatebard~llaart~llaart%3ae~llvessel~llsav~llsave~llasio~owp~llsh~llsh%3ae~bloodhunter~bh2020~kt%3avsco~ktfff~divine%20agent~ksb~kibblesgenericelementalspells~kt%3ao~ktw~ktwe~kibblestasty%3acc~kibblestasty%3abms~ktp~kibbleinventor~ktss~kt%3aamf~ktkcg~mercergunslinger~wotcs~bh2022~mercerootos~taldorei~grimhollowplayerpack~whereevillives~fleemortals
 
 <hr>
