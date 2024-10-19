@@ -11,7 +11,11 @@
 | **Matthew Mercer** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:BloodHunter~BH2020~BH2022~MercerMaestro~CorruptionRules~MercerGunslinger~Lingering%20Soul~MercerOotOS~TalDorei~WotCS |
 | **Steinhardt** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SGttEH~SGttEH-HoS |
 | **Valda's Spire of Secrets** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:VSS |
-
+| **Griffon's Saddlebag.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:TGS~tgs1~GriffonsSaddlebag2~GriffonsSaddlebag3~GriffonsSaddlebag4 |
+| **Elements and Beyond.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:TEB |
+| **Grim Hollow.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:GrimHollowPlayerPack~GH~GHMG~GHPG |
+| **DM Tuz.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:DarkestDungeon-HorrorsoftheDark~DMTuzHolstaur~DMTuzLamia~DMTuzSlimeFolk~DMTuzSlimeFolkVariant2023 |
+| **Tome Of Heros.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ToH |
 
 ---
 
