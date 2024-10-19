@@ -5,7 +5,7 @@
 | **Arcadia** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:Ar1~Ar2~Ar3~Ar4~Ar5~Ar6~Ar7~Ar8~Arcadia9~Arcadia10~Arcadia19~Ar20~Arcadia21~Arcadia27 |
 | **Dark Matter** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:darkmatter |
 | **LaserLlama (Alt)** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLAART~LLAB~LLABrd~LLABH~LLAF~LLAM~LLAPal~LLAR~LLARo~LLASorc~LLWrc~llasio~LLExploits~llspell~LLABBK |
-| **LaserLlama (Misc)** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLC~LL:DC~HalfDwarf~LL:BC~llfafs~LLMC~LLMT~llbarb~LLRA~OWP~LLPSO~LLSav~LLSH:E~LLPS~LLVessel~LLAW |
+| **LaserLlama (Misc)** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLC~LL%3aDC~HalfDwarf~LL%3aBC~llfafs~LLMC~LLMT~llbarb~LLRA~OWP~LLPSO~LLSav~LLSH%3aE~LLPS~LLVessel~LLAW |
 | **Valda's Spire of Secrets** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:VSS |
 
 
