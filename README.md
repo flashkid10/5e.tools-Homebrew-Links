@@ -6,6 +6,7 @@
 | **Dark Matter** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:darkmatter |
 | **LaserLlama (Alt)** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLAART~LLAB~LLABrd~LLABH~LLAF~LLAM~LLAPal~LLAR~LLARo~LLASorc~LLWrc~llasio~LLExploits~llspell~LLABBK |
 | **LaserLlama (Misc)** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLC~LL%3aDC~HalfDwarf~LL%3aBC~llfafs~LLMC~LLMT~llbarb~LLRA~OWP~LLPSO~LLSav~LLSH%3aE~LLPS~LLVessel~LLAW |
+| **Loot Tavern** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:HelianasGuidetoMonsterHunting |
 | **Valda's Spire of Secrets** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:VSS |
 
 
