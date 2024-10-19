@@ -16,9 +16,9 @@
 | **Steinhardt** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SGttEH~SGttEH-HoS |
 | **Tome Of Heros.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ToH |
 | **Valda's Spire of Secrets** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:VSS |
-
-
-
+| **Artificer Subclasses - A Dark Fantasy Supplement.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ASDFS |
+| **Children of the Dragon: Draconic Player Races and Subclasses.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:CotDDPRaS |
+| **The Magus, a Pathfinder inspired spellblade.** | https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:RannieryJesuinoTheMagus |
 
 ---
 
