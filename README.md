@@ -1,4 +1,4 @@
-# 5e.tools-Repos ([**Link**](https://docs.google.com/spreadsheets/d/1zeLnZSwFd0Lbjg6paeCiklPcaT9WTQRIckyWTOHIbqA/edit?usp=sharing))
+# 5e.tools-Homebrew-Links ([**Link**](https://docs.google.com/spreadsheets/d/1zeLnZSwFd0Lbjg6paeCiklPcaT9WTQRIckyWTOHIbqA/edit?usp=sharing))
 
 
 | Links |
