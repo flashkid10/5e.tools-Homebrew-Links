@@ -20,7 +20,130 @@
 
 
 
+
+| Links |
+| :-- |
+| A | |
+| B | |
+| C | |
+| D | |
+| E | |
+| F | |
+| G | |
+| H | |
+| I | |
+
+| Links |
+| J | |
+| K | |
+| L | |
+| M | |
+| N | |
+| O | |
+| P | |
+| Q | |
+| R | |
+
+| Links |
+| S | |
+| T | |
+| U | |
+| V | |
+| W | |
+| X | |
+| Y | |
+| Z | |
+
+
+
+<html>
+<head>
+<title>Website Title</title>
+<style type="text/css">
+* {margin: 0; padding: 0;}
+#container {height: 100%; width:100%; font-size: 0;}
+#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 25%; background: blue;}
+#middle {width: 50%; background: green;}
+#right {width: 25%; background: yellow;}
+</style>
+</head>
+<body>
+<div id="container">
+    <div id="left">Left Side Menu</div>
+    <div id="middle">Random Content</div>
+    <div id="right">Right Side Menu</div>
+</div>
+</body>
+</html>
+
+
+
+
+
 <!--
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
 
 <hr>
 <center>
