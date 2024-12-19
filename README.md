@@ -3,8 +3,7 @@
 
 
 
-
-| A - I | Links | J - R | Links | S - Z | Links |
+| A-I | Links | J-R | Links | S-Z | Links |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | A | [**Arcadia**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:Ar1~Ar2~Ar3~Ar4~Ar5~Ar6~Ar7~Ar8~Arcadia9~Arcadia10~Arcadia19~Ar20~Arcadia21~Arcadia27), [**Artificer Subclasses - A Dark Fantasy Supplement**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ASDFS) | J |  | S | [**Sebastian Crowe's Guide to Drakkenheim**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SCGtD), [**Steinhardt**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SGttEH~SGttEH-HoS) |
 | B |  | K | [**KibblesTasty**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:KT%3aAMF~Divine%20Agent~DoggoSidekick~KTFfF~KibblesTasty%3aBMS~KibblesGenericElementalSpells~KSB~KTKCG~ktp~ktw~KibbleInventor~KTSS~KT%3aO~KT%3aVSCO~KibDragonPatron) | T | [**The Magus, a Pathfinder inspired spellblade**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:RannieryJesuinoTheMagus), [**Tome of Heros**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ToH) |
@@ -14,7 +13,7 @@
 | F | [**FFXIV5E**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:FFXIV) | O |  | X |  |
 | G | [**Griffon's Saddlebag**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:TGS~tgs1~GriffonsSaddlebag2~GriffonsSaddlebag3~GriffonsSaddlebag4), [**Grim Hollow**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:GrimHollowPlayerPack~GH~GHMG~GHPG) | P |  | Y |  |
 | H | [**Heliana's Guide to Monster Hunting**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:HelianasGuidetoMonsterHunting) | Q |  | Z |  |
-| I |  | R |  |  |  |
+| I | [**Illrigger Revised**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:IllriggerRevised) | R |  |  |  |
 
 
 
