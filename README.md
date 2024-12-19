@@ -20,6 +20,21 @@
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTeBLwVOQti1mUBOqQxIU3ZJlAjKNI-9seiNoa9j8-6ECSVJ7BXUElnJ0lWn8SyrX_qIRbtznjP9C6/pubhtml?gid=818555354&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTeBLwVOQti1mUBOqQxIU3ZJlAjKNI-9seiNoa9j8-6ECSVJ7BXUElnJ0lWn8SyrX_qIRbtznjP9C6/pubhtml?gid=818555354&amp">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
+
+
+
 <!--
 
 
