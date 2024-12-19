@@ -14,8 +14,7 @@
 | [**KibblesTasty**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:KT%3aAMF~Divine%20Agent~DoggoSidekick~KTFfF~KibblesTasty%3aBMS~KibblesGenericElementalSpells~KSB~KTKCG~ktp~ktw~KibbleInventor~KTSS~KT%3aO~KT%3aVSCO~KibDragonPatron) |
 | [**LaserLlama (Alt)**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLAART~LLAB~LLABrd~LLABH~LLAF~LLAM~LLAPal~LLAR~LLARo~LLASorc~LLWrc~llasio~LLExploits~llspell~LLABBK), [**LaserLlama (Misc)**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:LLC~LL%3aDC~HalfDwarf~LL%3aBC~llfafs~LLMC~LLMT~llbarb~LLRA~OWP~LLPSO~LLSav~LLSH%3aE~LLPS~LLVessel~LLAW) |
 | [**Matthew Mercer**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:BloodHunter~BH2020~BH2022~MercerMaestro~CorruptionRules~MercerGunslinger~Lingering%20Soul~MercerOotOS~TalDorei~WotCS) |
-| [**Sebastian Crowe's Guide to Drakkenheim**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SCGtD) |
-| [**Steinhardt**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SGttEH~SGttEH-HoS) |
+| [**Sebastian Crowe's Guide to Drakkenheim**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SCGtD), [**Steinhardt**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:SGttEH~SGttEH-HoS) |
 | [**The Magus, a Pathfinder inspired spellblade**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:RannieryJesuinoTheMagus), [**Tome of Heros**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:ToH) |
 | [**Valda's Spire of Secrets**](https://5e.tools/index.html#blankhash,loadextprerelease:uaclassfeaturevariants,loadexthomebrew:VSS) |
 
